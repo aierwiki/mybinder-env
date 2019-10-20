@@ -11,8 +11,6 @@ dependencies:
   - matplotlib
   - seaborn
   - graphviz
-  - rar
-  - unrar
   - pip:
     - tqdm
     - packaging
